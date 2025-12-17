@@ -1,4 +1,4 @@
-# Active-Directory-User-Management
+# Active-Directory-Account-Recovery
 (Windows / Identity / Core Help Desk)
 
 <h1>Active Directory Password Reset & Account Unlock</h1>
