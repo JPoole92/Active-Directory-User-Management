@@ -40,7 +40,7 @@ It focuses on common identity and access issues such as password resets and lock
 5. Confirm the user can successfully sign in
 
 
-<h2>Lifecycle Stages</h2>
+<h2>Screenshots & Explanations</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
